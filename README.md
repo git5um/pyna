@@ -5,9 +5,7 @@ Lab files for the Python for Network Automation class.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine
-for development and testing purposes. See deployment for notes on how to deploy the project
-on a live system.
+Learning github for PYNA class.
 
 ### Prerequisites
 
@@ -21,5 +19,3 @@ how to install python and python3 using apt.
 ## Authors
 
 * **Chris Hancock** - *Initial work*
-
-
