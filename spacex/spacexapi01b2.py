@@ -18,10 +18,9 @@ def main():
     listOfCores = coreData.json()
 
     for core in listOfCores:
-        print(core, end="\n\n")
-        print(f"The original launch is {core['core_launch']} and the core serial of this launch is")
+      #  print(core, end="\n\n")
         print(f"The core details of this launch are {core['details']}")
-        print('The original launch is %s and the core serial is %s" % ({core['original_launch']},{core['core_serial']}))
+        print("The original launch is %s and the core serial is %s" % ({core['original_launch']},{core['core_serial']}))
 
 if __name__ == "__main__":
     main()
