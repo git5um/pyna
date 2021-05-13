@@ -1,0 +1,4 @@
+---
+- get_facts:
+    os_version: 4.22 #the actual version is much longer than  this, so this will result in a "False"
+
